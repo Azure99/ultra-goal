@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ultra Goal"
+  short_description: "Orchestrate complex engineering goals"
+  default_prompt: "Use $ultra-goal for this engineering goal."
+
+policy:
+  allow_implicit_invocation: false
