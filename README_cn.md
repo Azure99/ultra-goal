@@ -110,6 +110,4 @@ Ultra-Goal 适合的场景包括：
 
 ### 3. 需要显式调用
 
-Ultra-Goal 的 `SKILL.md` 设置了 `disable-model-invocation: true`，因此模型不会自动套用这一流程。使用者必须显式发起调用。
-
-这是有意为之的设计：Ultra-Goal 的运行成本较高，不适合被自动触发。
+使用者必须显式发起调用，这是有意为之的设计：Ultra-Goal 的运行成本较高，不适合被自动触发。

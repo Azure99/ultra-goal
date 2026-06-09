@@ -110,6 +110,4 @@ It is recommended to specify end-to-end acceptance methods in the goal, for exam
 
 ### 3. Explicit invocation is required
 
-Ultra-Goal’s `SKILL.md` sets `disable-model-invocation: true`, so the model will not automatically apply this workflow. The user must invoke it explicitly.
-
-This is an intentional design choice: Ultra-Goal has a high runtime cost and is not suitable for automatic triggering.
+The user must invoke it explicitly. This is an intentional design choice: Ultra-Goal has a high runtime cost and is not suitable for automatic triggering.

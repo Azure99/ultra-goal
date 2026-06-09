@@ -1,7 +1,6 @@
 ---
 name: ultra-goal
-description: Automatically orchestrates multi-agent workflows to achieve complex engineering goals, cycling through planning, implementation, and review until the result is accepted. Only use when explicitly invoked by the user.
-disable-model-invocation: true
+description: Orchestrate complex engineering goals. Manual invocation only. Use this skill only when the user explicitly asks to use, invoke, run, or activate "$ultra-goal", "ultra-goal", or "the ultra-goal skill". Otherwise, do not use this skill.
 ---
 
 # Ultra-Goal Orchestrator
